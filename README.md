@@ -1,0 +1,2 @@
+# YouTube-Video-Transcription-Summarization-with-Google-Gemini-Pro
+The project focuses on developing an advanced application that utilizes Google Gemini Pro for YouTube video transcription and summarization. This solution is designed to help users extract meaningful content from long YouTube videos quickly and efficiently. The primary features of the application are video transcription and summarization.
